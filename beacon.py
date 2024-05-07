@@ -1,7 +1,7 @@
 import socket
 import requests
 
-BEACONADDR="http://bnaucler.se:6893"
+BEACONADDR="http://localhost:6893"
 IPECHOADDR="http://ipecho.net/plain"
 
 hostname = socket.gethostname()
